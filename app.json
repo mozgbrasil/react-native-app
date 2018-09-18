@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Mozg React Native App",
+    "description": "Mozg React Native App",
+    "slug": "mozg-react-native-app",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+    "version": "0.1.0"
+  }
+}
